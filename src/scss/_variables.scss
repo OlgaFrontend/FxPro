@@ -1,0 +1,16 @@
+$base-bg: #efefef;
+$blue-bg: #007dff;
+$black-bg: #23262b;
+$white-bg: #fff;
+$black-text: #000;
+$white-text: #fff;
+$grey-text: #636366;
+$darkgrey-text: #828286;
+
+@mixin content {
+	width: 980px;
+}
+
+@mixin mobile-content {
+	width: 100%;
+}
